@@ -4,8 +4,11 @@ title:  "Lesson One Exchange Currency"
 date:   2019-06-04 01:08:04 +0000
 categories: chinese
 ---
+# 外国人在中国应该支付人民币。迈克是位美国人，他在北京工作。一天，他去银行换一些钱。
 
+# Foreigners in China should pay in Renminbi. Mike comes from the United States and works in Beijing now. One day, he goes to the bank to exchange some money.
 
+---
 ---
 mài kè:	
 Láo jià, wŏ xiăng bă měi yuán huàn chéng Rénmínbì.
@@ -71,5 +74,23 @@ mài kè:	Xiè xiè.
 Mike:	Thank you.
 
 ---
+---
+1. 换钱 huàn qián: to exchange money
 
+2. 百 băi: hundred
 
+3. 填 tiān: to fill in
+
+4. 兑换单 duì huàn dān: exchange form
+
+5. 今天 jīn tiān: today
+
+6. 比价 bĭ jià: rate of exchange
+
+7. 请 qĭng: please
+
+8. 等 děng: wait
+
+9. 一会儿 yī huìr: a moment
+
+10. 谢谢　xiè xiè: thank 
