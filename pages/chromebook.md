@@ -4,4 +4,8 @@ title: Chromebook
 permalink: /chromebook/
 ---
 
-크롬북 정보 공유
+# 즐겨찾기
+* [About Chromebooks][about-chromebooks-site]
+
+
+[about-chromebooks-site]: https://www.aboutchromebooks.com/
