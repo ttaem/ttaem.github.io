@@ -43,5 +43,8 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
-  - work/index.md
-  - about.md
+  - pages/travel.md
+  - pages/work.md
+  - pages/chinese.md
+  - pages/chromebook.md
+  - pages/about.md
